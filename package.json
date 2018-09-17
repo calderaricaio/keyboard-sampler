@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "parcel index.html",
-    "build": "rm -rf dist && parcel build index.html --public-url /javascript30/",
+    "build": "rm -rf dist && parcel build index.html --public-url /keyboard-sampler/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
